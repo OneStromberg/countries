@@ -1,0 +1,19 @@
+{
+  "name": "countries",
+  "version": "1.0.0",
+  "description": "About =====",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OneStromberg/countries.git"
+  },
+  "author": "https://github.com/cristiroma",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/OneStromberg/countries/issues"
+  },
+  "homepage": "https://github.com/OneStromberg/countries#readme"
+}
